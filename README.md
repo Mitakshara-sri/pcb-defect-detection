@@ -186,8 +186,8 @@ The SVM training script can be used to evaluate classification performance using
 
 ## Authors
 
-- Priya Bhadoria
-- Mitakshara Srivastava
+- [Priya Bhadoria](https://github.com/priyabhadoria)
+- [Mitakshara Srivastava](https://github.com/Mitakshara-sri)
 - [Alok Kumar Munna Lal Singh](https://github.com/Alok-Kumar-Singh235)
 
 
