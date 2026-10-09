@@ -51,4 +51,6 @@ The system follows a modular image-processing pipeline:
 The project demonstrates a modular approach to PCB defect detection by combining reference-image comparison, morphological processing, feature extraction, and machine learning. It provides a foundation for further research in automated electronic manufacturing inspection.
 
 ## Author
-Add your name and academic affiliation here.
+MITAKSHARA SRIVASTAVA 
+ALOK KUMAR MUNNA LAL SINGH 
+PRIYA BHADORIA
