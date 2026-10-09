@@ -52,5 +52,7 @@ The project demonstrates a modular approach to PCB defect detection by combining
 
 ## Author
 Mitakshara Srivastava 
-Alok Kumar Munna Lal Singh 
+
+Alok Kumar Munna Lal Singh
+
 Priya Bhadoria
