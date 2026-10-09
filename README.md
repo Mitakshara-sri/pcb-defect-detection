@@ -160,10 +160,6 @@ The system generates intermediate image-processing outputs that can be used to i
 
 The SVM training script can be used to evaluate classification performance using the available feature dataset.
 
-Quantitative metrics such as accuracy, precision, recall, F1-score, and a confusion matrix should be reported after running the evaluation on appropriate test data.
-
-*Actual performance values will be added after experimental validation.*
-
 ## Applications
 
 - PCB manufacturing quality control
